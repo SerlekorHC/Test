@@ -8,6 +8,15 @@ local.properties
 # Log/OS Files
 *.log
 
+# Downloaded installer media
+*.iso
+*.img
+*.efi
+
+downloads/*.iso
+
+downloads/*.img
+
 # Android Studio generated files and folders
 captures/
 .externalNativeBuild/
