@@ -180,6 +180,10 @@ Once valid media is on the device, the boot path above is the path to finish the
 
 This repo is intentionally a field log and a recovery playbook. It is meant to be copied, forked, and extended by anyone trying the same path on a similar Chromebook model.
 
+## Notes
+
+Well, let's just say this took so long just for me to soft-lock another Chromebook. Dang, what a waste of time
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0.
